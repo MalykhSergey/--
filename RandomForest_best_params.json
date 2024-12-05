@@ -1,0 +1,11 @@
+{
+    "best_params": {
+        "criterion": "squared_error",
+        "max_depth": 15,
+        "max_features": null,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "n_estimators": 50
+    },
+    "metric_value": 5.868306685592202
+}

@@ -1,0 +1,8 @@
+{
+    "best_params": {
+        "C": 10,
+        "penalty": "l2",
+        "solver": "lbfgs"
+    },
+    "metric_value": 0.7852564102564102
+}

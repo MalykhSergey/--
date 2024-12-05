@@ -1,0 +1,9 @@
+{
+    "best_params": {
+        "C": 100,
+        "epsilon": 0.01,
+        "gamma": "auto",
+        "kernel": "linear"
+    },
+    "metric_value": 0.1407751655332753
+}
